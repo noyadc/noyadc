@@ -1,16 +1,53 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Sinoya DCunha Banner">
+</p>
 
-<!--
-**noyadc/noyadc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sinoya D'Cunha 👋
 
-Here are some ideas to get you started:
+### Data Analytics | AI/ML | Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student passionate about transforming data into actionable insights and building intelligent solutions using AI and analytics.
+
+## 👩‍💻 About Me
+
+```python
+class SinoyaDCunha:
+
+    def __init__(self):
+        self.role = "Computer Engineering Student"
+
+        self.focus = [
+            "Data Analytics",
+            "AI/ML",
+            "Business Intelligence"
+        ]
+
+        self.currently_building = [
+            "ADAW - Autonomous Data Analyst Web"
+        ]
+
+        self.learning = [
+            "Agentic AI",
+            "LLMs",
+            "Data Engineering"
+        ]
+
+        self.open_to = "Internships and Collaborations"
+```
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Tableau
+- Machine Learning
+- Pandas
+- NumPy
+- Git
+- HTML/CSS
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sinoya-d-cunha-9037982b9/
+- Email: sinoyadcunha@gmail.com
